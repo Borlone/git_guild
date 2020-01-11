@@ -4,3 +4,4 @@ long an com due
 trong an lau roi
 sua
 sua tiep
+long sua file nay
